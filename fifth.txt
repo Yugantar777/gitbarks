@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hi this is again again again written from nano
-=======
 Hi this is again written from nano!!
->>>>>>> adding for merge conflict
